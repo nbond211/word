@@ -1,1 +1,3 @@
-wordnik experiment
+# Word.
+
+An experiment of exploring word usage.
